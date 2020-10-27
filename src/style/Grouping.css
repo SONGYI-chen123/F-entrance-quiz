@@ -1,0 +1,25 @@
+.group{
+    padding-top: 20px;
+}
+
+.group ul{
+    list-style: none;
+    display: block;
+    padding-bottom: 100px;
+}
+.group li{
+    display: inline;
+}
+.group li h1{
+    float: left;
+}
+
+.group li button{
+    font-weight: bolder;
+    float: right;
+    color:white;
+    background-color: red;
+    border: none;
+    width: 80px;
+    height: 40px;
+}

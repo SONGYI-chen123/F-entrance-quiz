@@ -1,0 +1,16 @@
+.stu{
+    float: left;
+}
+
+.stu ul{
+    list-style: none;
+    display: block;
+    padding-bottom: 10px;
+    background-color: rgb(238, 238, 238);
+    margin-right: 5px;
+}
+
+.stu li{
+    display: inline;
+    padding: 0px;
+}
