@@ -1,0 +1,15 @@
+.team{
+    border: 2px solid rgb(146, 155,171);
+}
+
+.team h2{
+    background-color: rgb(146, 155,171);
+    color: white;
+    margin: 0px;
+}
+
+.team p{
+    margin-left: 20px;
+    background-color: rgb(238, 238, 238);
+    width: 100px;
+}
